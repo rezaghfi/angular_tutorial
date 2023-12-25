@@ -1,1 +1,0 @@
-ng generate component home --inline-template --skin-tests

@@ -16,4 +16,5 @@ export class AppComponent {
   // title = 'Reza Gholamalitabar Programming CV';
   title = "first app"
   name = "hasan hasani"
+  age = 22
 }
