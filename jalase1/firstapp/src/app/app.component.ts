@@ -15,4 +15,5 @@ import { CustomerComponent } from './customer.component';
 export class AppComponent {
   // title = 'Reza Gholamalitabar Programming CV';
   title = "first app"
+  name = "hasan hasani"
 }
