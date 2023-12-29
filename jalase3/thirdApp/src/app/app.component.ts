@@ -11,4 +11,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'thirdApp';
+  name = 'reza';
+  c1 = "class1"
+  c2 = "class2"
+  myClass = 'm2';
+  flag = false
 }
