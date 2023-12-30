@@ -1,4 +1,4 @@
-// npm install -g typescript
+// npm install -g 1.ts
 // tsc --version version of compiler
 // npx tsc --init create config file
 // tsc 1.ts
