@@ -11,5 +11,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'secondApp';
-  
+  show(): void{
+    console.log("hello i'm event handler")
+  }  
 }
