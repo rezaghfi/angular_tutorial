@@ -10,7 +10,7 @@ function sum( i, j){
 sum(1,10)
 console.log(sum(1,10))
 
-y = sum(2,20)
+let y = sum(2,20)
 
 function add(a, b , c?){
   return a + b + (c || 0 )
