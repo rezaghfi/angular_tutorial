@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { AboutComponent } from './about/about.component';
 
+// @ts-ignore
 @Component({
   selector: 'app-root',
   standalone: true,
